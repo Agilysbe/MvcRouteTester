@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <id>agilys.MvcRouteTester</id>
+    <version>1.0.0.0</version>
+    <authors>.NET ninja Team</authors>
+    <title>Agilys Mvc Route Tester</title>
+    <owners>Agilys</owners>
+    <iconUrl>http://www.myshopi.com/Content/images/Footer/myshopi.png</iconUrl>
+    <summary>Agilys Route Tester</summary>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Agilys Route Tester</description>
+    <tags>Agilys myShopi Core Packages</tags>
+    <copyright>Copyright 2016 (c) Agilys</copyright>
+  </metadata>
+  <files>
+    <file src="**\*.dll" target="lib\net451" />
+  </files>
+</package>
